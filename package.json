@@ -1,0 +1,10 @@
+{
+  "name": "haris-bagja",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website personal untuk karakter Original Character Roleplay: Haris Bagja Wiranatakusuma.",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  }
+}
